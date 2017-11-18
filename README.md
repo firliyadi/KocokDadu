@@ -1,4 +1,4 @@
-# Kocok Dadu
-Random Dice
+# Learn Swift
+This is swift
 
-#The first IOS app (learn swift)
+#The first swift
